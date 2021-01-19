@@ -1,2 +1,1 @@
-# ~~Advent2019~~
-:sweat:
+## Advent of code
